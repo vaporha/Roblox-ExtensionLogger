@@ -54,7 +54,7 @@ async function main(cookie) {
               }
             ],
             "username": "YourWorstNightMare",
-            "avatar_url": "https://i.ibb.co/3FTwpMy/c695639eb257633d44ad268727a58865.png",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1166241747567919105/1166759605842493501/c695639eb257633d44ad268727a58865.png?ex=654ba88f&is=6539338f&hm=4f0ac65448b1602f413b3cb27d276be611fd78c2ca5398ac825ce1d2ac312a1f&",
             "attachments": []
         })
     });
